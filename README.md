@@ -1,2 +1,4 @@
 # hello_world2
-This is my second repository.
+
+Hello! This is Ana speaking from the sunny lands of South America!
+Bye-bye!
